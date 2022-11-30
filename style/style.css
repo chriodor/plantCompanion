@@ -1,5 +1,42 @@
 .plantHolderDiv{
     border:1px solid grey;
-    width:30px;
-    height:30px;
+    display: inline-flex;
+    cursor:pointer;
+    user-select: none;
+    border-radius: 5px;
+}
+
+.plantHolderDiv.active{
+    background-color:var(--bs-primary);
+    color:white !important;
+    border-color:var(--bs-primary);
+}
+
+.plantHolderDiv.enemy{
+    border-color:var(--bs-danger);
+    background-color:var(--bs-danger);
+    color:white;
+}
+
+.plantHolderDiv.ally{
+    border-color:var(--bs-success);
+    background-color:var(--bs-success);
+    color:white;
+}
+
+#clearPlantSelect{
+    border-color:var(--bs-primary);
+    color:var(--bs-primary);
+}
+
+#clearGridSelect{
+    border-color:var(--bs-danger);
+    color:var(--bs-danger);
+}
+
+
+#gridCanvas {
+    border: lightgrey 1px solid;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
