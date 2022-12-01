@@ -1,19 +1,19 @@
 var gPlantsArray = {
     "amaranth": {
         "lang": {
-            "hun": ""
+            "hun": "bársonyvirág"
         },
         "attr": {}
     },
     "angelica": {
         "lang": {
-            "hun": ""
+            "hun": "angyalgyökér"
         },
         "attr": {}
     },
     "anise": {
         "lang": {
-            "hun": ""
+            "hun": "ánizs"
         },
         "attr": {}
     },
@@ -25,73 +25,73 @@ var gPlantsArray = {
     },
     "apricot": {
         "lang": {
-            "hun": ""
+            "hun": "sárgabarack"
         },
         "attr": {}
     },
     "asparagus": {
         "lang": {
-            "hun": ""
+            "hun": "spárga"
         },
         "attr": {}
     },
     "aubergine": {
         "lang": {
-            "hun": ""
+            "hun": "padlizsán"
         },
         "attr": {}
     },
     "barley": {
         "lang": {
-            "hun": ""
+            "hun": "árpa"
         },
         "attr": {}
     },
     "basil": {
         "lang": {
-            "hun": ""
+            "hun": "bazsalikom"
         },
         "attr": {}
     },
     "bay": {
         "lang": {
-            "hun": ""
+            "hun": "babér"
         },
         "attr": {}
     },
     "beet": {
         "lang": {
-            "hun": ""
+            "hun": "cukorrépa"
         },
         "attr": {}
     },
     "bergamot": {
         "lang": {
-            "hun": ""
+            "hun": "bergamott"
         },
         "attr": {}
     },
     "blackberry": {
         "lang": {
-            "hun": ""
+            "hun": "földi szeder"
         },
         "attr": {}
     },
     "blueberry": {
         "lang": {
-            "hun": ""
+            "hun": "kék áfonya"
         },
         "attr": {}
     },
     "borage": {
         "lang": {
-            "hun": ""
+            "hun": "borásza"
         },
         "attr": {}
     },
     "broad_bean": {
         "lang": {
-            "hun": ""
+            "hun": "lóbab"
         },
         "attr": {}
     },
@@ -103,649 +103,649 @@ var gPlantsArray = {
     },
     "brussels_sprouts": {
         "lang": {
-            "hun": ""
+            "hun": "kelbimbó"
         },
         "attr": {}
     },
     "cabbage": {
         "lang": {
-            "hun": ""
+            "hun": "fejes káposzta"
         },
         "attr": {}
     },
     "cannabis": {
         "lang": {
-            "hun": ""
+            "hun": "kannabisz"
         },
         "attr": {}
     },
     "caraway": {
         "lang": {
-            "hun": ""
+            "hun": "kömény"
         },
         "attr": {}
     },
     "carrot": {
         "lang": {
-            "hun": ""
+            "hun": "sárgarépa"
         },
         "attr": {}
     },
     "cauliflower": {
         "lang": {
-            "hun": ""
+            "hun": "karfiol"
         },
         "attr": {}
     },
     "celery": {
         "lang": {
-            "hun": ""
+            "hun": "zeller"
         },
         "attr": {}
     },
     "chamomile": {
         "lang": {
-            "hun": ""
+            "hun": "kamilla"
         },
         "attr": {}
     },
     "cherry": {
         "lang": {
-            "hun": ""
+            "hun": "cseresznye"
         },
         "attr": {}
     },
     "chervil": {
         "lang": {
-            "hun": ""
+            "hun": "turbolya"
         },
         "attr": {}
     },
     "chilli_pepper": {
         "lang": {
-            "hun": ""
+            "hun": "csili paprika"
         },
         "attr": {}
     },
     "chinese_cabbage": {
         "lang": {
-            "hun": ""
+            "hun": "kínai káposzta"
         },
         "attr": {}
     },
     "chives": {
         "lang": {
-            "hun": ""
+            "hun": "metélőhagyma"
         },
         "attr": {}
     },
     "chrysanthemum": {
         "lang": {
-            "hun": ""
+            "hun": "krizantém"
         },
         "attr": {}
     },
     "citrus_fruits": {
         "lang": {
-            "hun": ""
+            "hun": "citrusfélék"
         },
         "attr": {}
     },
     "columbine": {
         "lang": {
-            "hun": ""
+            "hun": "harangláb"
         },
         "attr": {}
     },
     "comfrey": {
         "lang": {
-            "hun": ""
+            "hun": "fekete nadálytő"
         },
         "attr": {}
     },
     "coriander": {
         "lang": {
-            "hun": ""
+            "hun": "koriander"
         },
         "attr": {}
     },
     "corncockle": {
         "lang": {
-            "hun": ""
+            "hun": "vetési konkoly"
         },
         "attr": {}
     },
     "cranberry": {
         "lang": {
-            "hun": ""
+            "hun": "vörös áfonya"
         },
         "attr": {}
     },
     "cucumber": {
         "lang": {
-            "hun": ""
+            "hun": "uborka"
         },
         "attr": {}
     },
     "currant": {
         "lang": {
-            "hun": ""
+            "hun": "ribizli"
         },
         "attr": {}
     },
     "dill": {
         "lang": {
-            "hun": ""
+            "hun": "kapor"
         },
         "attr": {}
     },
     "dwarf_french_bean": {
         "lang": {
-            "hun": ""
+            "hun": "zöldbab"
         },
         "attr": {}
     },
     "fennel": {
         "lang": {
-            "hun": ""
+            "hun": "édeskömény"
         },
         "attr": {}
     },
     "field_salad": {
         "lang": {
-            "hun": ""
+            "hun": "salátafélék"
         },
         "attr": {}
     },
     "fig": {
         "lang": {
-            "hun": ""
+            "hun": "füge"
         },
         "attr": {}
     },
     "flax": {
         "lang": {
-            "hun": ""
+            "hun": "len"
         },
         "attr": {}
     },
     "foxglove": {
         "lang": {
-            "hun": ""
+            "hun": "gyűszűvirág"
         },
         "attr": {}
     },
     "garlic": {
         "lang": {
-            "hun": ""
+            "hun": "fokhagyma"
         },
         "attr": {}
     },
     "ginger": {
         "lang": {
-            "hun": ""
+            "hun": "gyömbér"
         },
         "attr": {}
     },
     "gladiolus": {
         "lang": {
-            "hun": ""
+            "hun": "kardvirág"
         },
         "attr": {}
     },
     "globe_artichoke": {
         "lang": {
-            "hun": ""
+            "hun": "articsóka"
         },
         "attr": {}
     },
     "gooseberry": {
         "lang": {
-            "hun": ""
+            "hun": "egres"
         },
         "attr": {}
     },
     "grape": {
         "lang": {
-            "hun": ""
+            "hun": "szőlő"
         },
         "attr": {}
     },
     "horehound": {
         "lang": {
-            "hun": ""
+            "hun": "orvosi pemetefű"
         },
         "attr": {}
     },
     "horseradish": {
         "lang": {
-            "hun": ""
+            "hun": "torma"
         },
         "attr": {}
     },
     "hyssop": {
         "lang": {
-            "hun": ""
+            "hun": "izsóp"
         },
         "attr": {}
     },
     "jerusalem_artichoke": {
         "lang": {
-            "hun": ""
+            "hun": "csicsóka"
         },
         "attr": {}
     },
     "kale": {
         "lang": {
-            "hun": ""
+            "hun": "kelkáposzta"
         },
         "attr": {}
     },
     "kohlrabi": {
         "lang": {
-            "hun": ""
+            "hun": "karalábé"
         },
         "attr": {}
     },
     "lavender": {
         "lang": {
-            "hun": ""
+            "hun": "levendula"
         },
         "attr": {}
     },
     "leek": {
         "lang": {
-            "hun": ""
+            "hun": "póréhagyma"
         },
         "attr": {}
     },
     "lemon_balm": {
         "lang": {
-            "hun": ""
+            "hun": "citrombalzsam"
         },
         "attr": {}
     },
     "lentil": {
         "lang": {
-            "hun": ""
+            "hun": "lencse"
         },
         "attr": {}
     },
     "lettuce": {
         "lang": {
-            "hun": ""
+            "hun": "saláta"
         },
         "attr": {}
     },
     "lovage": {
         "lang": {
-            "hun": ""
+            "hun": "orvosi lestyán"
         },
         "attr": {}
     },
     "marigold": {
         "lang": {
-            "hun": ""
+            "hun": "körömvirág"
         },
         "attr": {}
     },
     "marjoram": {
         "lang": {
-            "hun": ""
+            "hun": "majoránna"
         },
         "attr": {}
     },
     "marrow": {
         "lang": {
-            "hun": ""
+            "hun": "cukkini"
         },
         "attr": {}
     },
     "melon": {
         "lang": {
-            "hun": ""
+            "hun": "dinnye"
         },
         "attr": {}
     },
     "mint": {
         "lang": {
-            "hun": ""
+            "hun": "menta"
         },
         "attr": {}
     },
     "morning_glory": {
         "lang": {
-            "hun": ""
+            "hun": "hajnalka"
         },
         "attr": {}
     },
     "mulberry": {
         "lang": {
-            "hun": ""
+            "hun": "eperfa"
         },
         "attr": {}
     },
     "mustard": {
         "lang": {
-            "hun": ""
+            "hun": "mustár"
         },
         "attr": {}
     },
     "nasturtium": {
         "lang": {
-            "hun": ""
+            "hun": "böjtfű"
         },
         "attr": {}
     },
     "nectarine": {
         "lang": {
-            "hun": ""
+            "hun": "nektarin"
         },
         "attr": {}
     },
     "oats": {
         "lang": {
-            "hun": ""
+            "hun": "zab"
         },
         "attr": {}
     },
     "oca": {
         "lang": {
-            "hun": ""
+            "hun": "madársóska"
         },
         "attr": {}
     },
     "okra": {
         "lang": {
-            "hun": ""
+            "hun": "okra"
         },
         "attr": {}
     },
     "onion": {
         "lang": {
-            "hun": ""
+            "hun": "hagyma"
         },
         "attr": {}
     },
     "parsley": {
         "lang": {
-            "hun": ""
+            "hun": "petrezselyem"
         },
         "attr": {}
     },
     "parsnip": {
         "lang": {
-            "hun": ""
+            "hun": "paszternák"
         },
         "attr": {}
     },
     "pea": {
         "lang": {
-            "hun": ""
+            "hun": "borsó"
         },
         "attr": {}
     },
     "peach": {
         "lang": {
-            "hun": ""
+            "hun": "őszibarack"
         },
         "attr": {}
     },
     "peanut": {
         "lang": {
-            "hun": ""
+            "hun": "földimogyoró"
         },
         "attr": {}
     },
     "pear": {
         "lang": {
-            "hun": ""
+            "hun": "körte"
         },
         "attr": {}
     },
     "plum": {
         "lang": {
-            "hun": ""
+            "hun": "szilva"
         },
         "attr": {}
     },
     "pole_bean": {
         "lang": {
-            "hun": ""
+            "hun": "veteménybab"
         },
         "attr": {}
     },
     "potato": {
         "lang": {
-            "hun": ""
+            "hun": "burgonya"
         },
         "attr": {}
     },
     "pumpkin": {
         "lang": {
-            "hun": ""
+            "hun": "tök"
         },
         "attr": {}
     },
     "quince": {
         "lang": {
-            "hun": ""
+            "hun": "birsalma"
         },
         "attr": {}
     },
     "radish": {
         "lang": {
-            "hun": ""
+            "hun": "retek"
         },
         "attr": {}
     },
     "raspberry": {
         "lang": {
-            "hun": ""
+            "hun": "málna"
         },
         "attr": {}
     },
     "rhubarb": {
         "lang": {
-            "hun": ""
+            "hun": "rebarbara"
         },
         "attr": {}
     },
     "rose": {
         "lang": {
-            "hun": ""
+            "hun": "rózsa"
         },
         "attr": {}
     },
     "rosemary": {
         "lang": {
-            "hun": ""
+            "hun": "rozmaring"
         },
         "attr": {}
     },
     "rue": {
         "lang": {
-            "hun": ""
+            "hun": "kerti ruta"
         },
         "attr": {}
     },
     "sage": {
         "lang": {
-            "hun": ""
+            "hun": "zsálya"
         },
         "attr": {}
     },
     "salsify": {
         "lang": {
-            "hun": ""
+            "hun": "bakszakáll"
         },
         "attr": {}
     },
     "scorzonera": {
         "lang": {
-            "hun": ""
+            "hun": "feketegyökér"
         },
         "attr": {}
     },
     "shallot": {
         "lang": {
-            "hun": ""
+            "hun": "mogyoróhagyma"
         },
         "attr": {}
     },
     "southernwood": {
         "lang": {
-            "hun": ""
+            "hun": "ebruta"
         },
         "attr": {}
     },
     "soya_bean": {
         "lang": {
-            "hun": ""
+            "hun": "szójabab"
         },
         "attr": {}
     },
     "spinach": {
         "lang": {
-            "hun": ""
+            "hun": "spenót"
         },
         "attr": {}
     },
     "stinging_nettle": {
         "lang": {
-            "hun": ""
+            "hun": "csalán"
         },
         "attr": {}
     },
     "strawberry": {
         "lang": {
-            "hun": ""
+            "hun": "eper"
         },
         "attr": {}
     },
     "summer_savory": {
         "lang": {
-            "hun": ""
+            "hun": "borsikafű"
         },
         "attr": {}
     },
     "sunflower": {
         "lang": {
-            "hun": ""
+            "hun": "napraforgó"
         },
         "attr": {}
     },
     "swede": {
         "lang": {
-            "hun": ""
+            "hun": "karórépa"
         },
         "attr": {}
     },
     "sweet_pea": {
         "lang": {
-            "hun": ""
+            "hun": "cukorborsó"
         },
         "attr": {}
     },
     "sweet_pepper": {
         "lang": {
-            "hun": ""
+            "hun": "édespaprika"
         },
         "attr": {}
     },
     "sweetcorn": {
         "lang": {
-            "hun": ""
+            "hun": "csemegekukorica"
         },
         "attr": {}
     },
     "swiss_chard": {
         "lang": {
-            "hun": ""
+            "hun": "mángold"
         },
         "attr": {}
     },
     "tagetes": {
         "lang": {
-            "hun": ""
+            "hun": "bársonyvirág"
         },
         "attr": {}
     },
     "tansy": {
         "lang": {
-            "hun": ""
+            "hun": "varádics"
         },
         "attr": {}
     },
     "taro": {
         "lang": {
-            "hun": ""
+            "hun": "taró"
         },
         "attr": {}
     },
     "tarragon": {
         "lang": {
-            "hun": ""
+            "hun": "tárkony"
         },
         "attr": {}
     },
     "thyme": {
         "lang": {
-            "hun": ""
+            "hun": "kakukkfű"
         },
         "attr": {}
     },
     "tomato": {
         "lang": {
-            "hun": ""
+            "hun": "paradicsom"
         },
         "attr": {}
     },
     "turnip": {
         "lang": {
-            "hun": ""
+            "hun": "fehér retek"
         },
         "attr": {}
     },
     "valerian": {
         "lang": {
-            "hun": ""
+            "hun": "macskagyökér"
         },
         "attr": {}
     },
     "walnut": {
         "lang": {
-            "hun": ""
+            "hun": "dió"
         },
         "attr": {}
     },
     "watermelon": {
         "lang": {
-            "hun": ""
+            "hun": "görögdinnye"
         },
         "attr": {}
     },
     "wheat": {
         "lang": {
-            "hun": ""
+            "hun": "búza"
         },
         "attr": {}
     },
     "wormwood": {
         "lang": {
-            "hun": ""
+            "hun": "üröm"
         },
         "attr": {}
     },
     "yam": {
         "lang": {
-            "hun": ""
+            "hun": "jamgyökér"
         },
         "attr": {}
     },
     "yarrow": {
         "lang": {
-            "hun": ""
+            "hun": "cickafark"
         },
         "attr": {}
     }
