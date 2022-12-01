@@ -159,6 +159,7 @@ function selectRect(ev) {
 
 function calculateTexts() {
 
+    activeLang = jQuery(".lang_selector_icon.active").attr("id").split("lang_selector_icon_")[1];
     jQuery(".plant_first_letter").remove();
     jQuery.each(jQuery("rect[item_selected!='false']"), function (a, b) {
         //jQuery(b).attr("id").split("plant_rect_")[1].split(":");
@@ -170,7 +171,14 @@ function calculateTexts() {
         newX = parseInt(jQuery(b).attr("x")) + 5;
         newY = parseInt(jQuery(b).attr("y")) + 20;
 
-        mkTxt = makeSVG("text", {x: newX, y: newY, class: 'plant_first_letter', fill: 'white', onmousedown: "activatePress('" + coord + "');", item_selected: "false", onmouseover: "selectRect('" + coord + "');"}, jQuery(b).attr("item_selected").substring(0, 2).toUpperCase());
+        plantName = jQuery(b).attr("item_selected");
+
+        plantLangName = gPlantsArray[jQuery(b).attr("item_selected")]["lang"][activeLang];
+        if (plantLangName !== "" && plantLangName !== undefined) {
+            plantName = plantLangName;
+        }
+
+        mkTxt = makeSVG("text", {x: newX, y: newY, class: 'plant_first_letter', fill: 'white', onmousedown: "activatePress('" + coord + "');", item_selected: "false", onmouseover: "selectRect('" + coord + "');"}, plantName.substring(0, 2).toUpperCase());
         document.getElementById('gridCanvas').appendChild(mkTxt);
     });
 }
