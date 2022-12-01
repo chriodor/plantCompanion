@@ -1,5 +1,5 @@
 <?php
- //onmouseout='deActivatePress(event)'
+//https://flagicons.lipis.dev/
 ?>
 <!DOCTYPE html>
 <html lang='hu'>
@@ -21,7 +21,13 @@
         <script type='text/javascript' src='script/plant_info.js'></script>
 
         <div class='container-fluid'>
-            <input id="plantListSearch" type="text" class="form-control" placeholder="Search" onkeyup='searchForPlant()'>
+            <div class="input-group">
+                <input id="plantListSearch" type="text" class="form-control" placeholder="Search" onkeyup='searchForPlant()'>
+                <div class="ps-3">
+                    <img src='flags/4x3/hu.svg' style='height:20px;' id="lang_selector_icon_hun" class="lang_selector_icon active" onclick="selectLanguage('hun')" />
+                    <img src='flags/4x3/gb.svg' style='height:20px;' id="lang_selector_icon_eng" class="lang_selector_icon" onclick="selectLanguage('eng')" />
+                </div>
+            </div>
             <div id='plantListHolder'></div>
             <div id='plantingGrid'>
                 <svg class="gridCanvas" id="gridCanvas" height="500px" xmlns="http://www.w3.org/2000/svg"></svg>
