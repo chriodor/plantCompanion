@@ -39,11 +39,12 @@
     border: lightgrey 1px solid;
     border-radius: 5px;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+    /*display:none;*/
 }
 
 .plant_first_letter{
     color:white;
-    user-select: none; 
+    user-select: none;
 }
 
 .lang_selector_icon{
@@ -53,4 +54,8 @@
 
 .lang_selector_icon.active{
     opacity:1;
+}
+
+#plantViewFunctions{
+    /*display:none;*/
 }

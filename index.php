@@ -19,6 +19,7 @@
     <body>
 
         <script type='text/javascript' src='script/plant_info.js'></script>
+        <script type='text/javascript' src='script/plant_relation.js'></script>
 
         <div class='container-fluid'>
             <div class="input-group">
@@ -29,10 +30,28 @@
                 </div>
             </div>
             <div id='plantListHolder'></div>
+
+            <div class="pt-2 pb-2" role="group" id="plantViewWrapper">
+                <div class="btn-group btn-group-sm" role="group" id="plantViewHolder" onclick="checkPlantViewHolder()">
+                    <input type="radio" class="btn-check" name="plantViewRadio" id="viewRadio_relation" autocomplete="off" checked="">
+                    <label class="btn btn-outline-primary" for="viewRadio_relation">Relation view</label>
+
+                    <input type="radio" class="btn-check" name="plantViewRadio" id="viewRadio_grid" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="viewRadio_grid">Grid view</label>
+
+                </div>
+                <div class="btn-group btn-group-sm ms-3" id="plantViewFunctions">
+                    <button type="button" class="btn btn-outline-primary btn-sm" onclick='addPlantToRelationView()'>Add plant +</button>
+                </div>
+            </div>
+
             <div id='plantingGrid'>
-                <svg class="gridCanvas" id="gridCanvas" height="500px" xmlns="http://www.w3.org/2000/svg"></svg>
+                <svg class="gridCanvas" id="gridCanvas" height="1px" xmlns="http://www.w3.org/2000/svg"></svg>
+            </div>
+            <div id='plantingComparison'>
             </div>
         </div>
         <script type='text/javascript' src='script/script.js'></script>
+        <script type='text/javascript' src='script/script_grid.js'></script>
     </body>
 </html>
